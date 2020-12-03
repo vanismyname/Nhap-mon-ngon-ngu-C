@@ -13,7 +13,7 @@ int main(void) {
 //khai bao DTB	
     double DTB;
     DTB=(V + T)\2;
-    printf("diem van(V)\tdiem toan(T)\tdiem trung binh(DTB)\n");
-    printf("%f\t%f\t%f",V,T,DTB);
-    return 0;
+        printf("diem van(V)\tdiem toan(T)\tdiem trung binh(DTB)\n");
+        printf("%f\t%f\t%f",V,T,DTB);
+        return 0;
 }
