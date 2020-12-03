@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main(void) {
-//khai bao don vi chieu dai
-	double l,i,f
+//khai bao bien l,i,f
+	double l,i,f;
 	printf("nhap do dai can chuyen doi l = ");
 	scanf("%d",&l);
 	i=l=100;
