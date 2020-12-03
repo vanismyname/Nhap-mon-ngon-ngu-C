@@ -1,13 +1,12 @@
+  
 #include<stdio.h>
 
 int main(void) {
-//khai bao bien l,i,f
-	double l,i,f;
+//khai bao bien l
+	double l;
 	printf("nhap do dai can chuyen doi l = ");
 	scanf("%d",&l);
-	i=l=100;
-	f=l=1000;
-	printf("do dai chuyen sang don vi xentimet la: %f",l);
-	printf("do dai chuyen sang don vi milimet la: %f",l);
+	printf("Met(m)\txentimet(cm)\tmilimet(mm)\n");	
+	printf("%f\t%f\t%f",l,l*100,l*1000);
 	return 0;
 }
