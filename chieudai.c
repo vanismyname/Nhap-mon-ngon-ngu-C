@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(void) {
-//khai bao bien l 
+//khai bao don vi chieu dai
 	double l,i,f
 	printf("nhap do dai can chuyen doi l = ");
 	scanf("%d",&l);
